@@ -1,7 +1,7 @@
-# Assignment 6: Lempel-Ziv Compression
+# Lempel-Ziv Compression
 
 ## Description:
-	In this assignment, we implement two programs called encode and decode which perform LZ78
+	In this project, I implemented two programs called encode and decode which perform LZ78
 	compression and decompression, respectively. The core idea behind both of these compression 
 	algorithms is to represent repeated patterns in data with pairs using pairs which are each
 	comprised of a code and symbol. Both encode and decode can compress/decompress any file, text
